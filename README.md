@@ -13,3 +13,9 @@ RESOLUSI 2024:
 - Membangun Portfolio Front End Web Dev
 - Memahami Git (Create Repository, Local vs Remote Repository, Commit, Push, Pull, Clone, Git Workflow, mengatur ulang Git head, memahami .gitignore, membuat tags, Branching with Git)
 - Memahami React (Hooks, Variabel React, Property, Event Handling, Styling, useState, Parent & Child Communication, Effect Hook, Interaksi FE dan BE dengan API, Create, Read, Update, Delete, React Context, React Routing, Custom Hook React, React Forms, React Authentication & Authorization)
+- Membuat mini project menggunakan React js
+- Memahami Redux (Redux App Structur, Redux Concept & Data Flow, Redux Toolkit, Redux Store, Integrasi Redux dengan UI, Using Redux with React, Implementasi API on Redux, Implementasi loading success and failed state on Redux, Middleware)
+- Memahami Next Js (EsLint, Routing, Next Js Component, Data Fetching, Deployment Concept, Pengenalan CI/CD, Deployment FE mini project with Netlify)
+- Membuat Final Project
+- Memahami TDD & Unit Tests (Pros and Cons using TDD, Unit Testing Algoritm with Jest, Unit Testing for React/Front-End side of web app)
+- Memahami tentang Web Performance (Lighthouse, Core web vitals, Accessibilty, Best Simulation, SEO, Progressive Web App)
