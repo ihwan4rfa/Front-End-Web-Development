@@ -1,5 +1,5 @@
 # Front-End-Web-Development
-Repository untuk menyimpan file belajar Front End Web Development
+Repository untuk menyimpan target belajar Front End Web Development
 
 RESOLUSI 2024:
 - Memahami Web Development fundamentals (HTML, CSS, Javascript)
